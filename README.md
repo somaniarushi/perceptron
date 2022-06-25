@@ -1,0 +1,2 @@
+# Re-created: Perceptrons
+I believe you learn by doing. Or at least, _I_ learn by doing. In that spirit, this repository develops a perceptron model using PyTorch and tests it on the MNIST dataset. There definitely are easier ways to use perceptrons than this, and there are certainly better transformer codes than this, but the hope is that this repository is extremely readable in understanding how transformers work.
